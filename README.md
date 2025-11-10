@@ -19,32 +19,14 @@ Participants learn to generate concise, evidence-based radiology impressions, ex
 ```
 IMPACT_Med_2025/
 │
-├── code/             # Python scripts and Jupyter notebooks for inference
-│├── medgemma_demo.py
-│└── utils.py
+├── code/             # The main Jupyter notebook
 │
-├── data/             # Sample open-access chest X-ray images and metadata
-│└── sample_xrays/
+├── data/             # Sample open-access chest X-ray images and metadata (DICOM and JPG sets)
+││
+├── presentation/     # Workshop slides
 │
-├── presentation/     # Workshop slides and supplementary materials
-│└── IMPACT_Med_2025_Slides.pdf
-│
-└── results/          # Example AI outputs and case summaries
-   ├── outputs/
-   └── visualizations/
+└── results/          # JPG dataset's case summaries
 ```
-
----
-
-## ⚙️ Setup
-
-### Clone the repository
-```bash
-git clone https://github.com/knamdar/IMPACT_Med_2025.git
-cd IMPACT_Med_2025
-```
-
----
 
 ## 👏 Acknowledgments
 
