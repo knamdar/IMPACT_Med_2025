@@ -46,7 +46,7 @@ This project is licensed under the **MIT License**.
 
 **Ernest (Khashayar) Namdar**, Ph.D., M.Sc., MEng, P.Eng.  
 *Lead Organizer & AI Researcher*  
-[Google Scholar](https://scholar.google.ca/citations?user=Yn-iBIkAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ernestnamdar/)
+[Google Scholar](https://scholar.google.ca/citations?user=Yn-iBIkAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/ernest-namdar/)
 
 **Noushin Jafarpisheh**, Ph.D.  
 *Co-Lead, Medical Imaging Researcher*
