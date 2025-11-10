@@ -22,7 +22,7 @@ IMPACT_Med_2025/
 ├── code/             # The main Jupyter notebook
 │
 ├── data/             # Sample open-access chest X-ray images and metadata (DICOM and JPG sets)
-││
+│
 ├── presentation/     # Workshop slides
 │
 └── results/          # JPG dataset's case summaries
