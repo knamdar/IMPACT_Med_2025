@@ -28,6 +28,12 @@ IMPACT_Med_2025/
 └── results/          # JPG dataset's case summaries
 ```
 
+
+## 🎥 Workshop Recordings
+
+[![Watch the Recordings](https://img.youtube.com/vi/es-bsrYRSMg/0.jpg)](https://youtu.be/es-bsrYRSMg)
+
+
 ## 👏 Acknowledgments
 
 - **IMPACT Med 2025 Organizing Committee**  
